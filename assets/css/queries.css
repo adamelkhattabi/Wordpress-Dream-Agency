@@ -1,0 +1,224 @@
+@media (max-width: 94em) {
+
+  .header {
+        padding: 28px 42px 42px 50px;
+
+  }
+  .hero {
+    max-width: 130rem;
+  }
+
+  .heading-primary {
+    font-size: 5rem;
+  }
+  .hero-text-box h2 {
+    font-size: 5rem;
+  }
+  .hero-description {
+    font-size: 0.9rem;
+  }
+  .btn:link,
+  .btn:visited {
+    font-size: 15px;
+  }
+  .heroimg {
+    width: 95%;
+    top: -24%;
+  }
+  .aboutus-text-box {
+    margin-right: 5%;
+  }
+  .aboutus-text-box h4 {
+    font-size: 2.5rem;
+  }
+  .image2 {
+    width: 85%;
+    margin-top: 10%;
+  }
+
+  .section-business {
+    height: 30rem;
+  }
+
+  .heading-secondary {
+    font-size: 2.5rem;
+  }
+  .work-text-box h4 {
+    font-size: 2.5rem;
+  }
+
+  .work-text {
+    font-size: 1rem;
+  }
+  .testimonials-text h4 {
+    font-size: 2.5rem;
+  }
+  .testimonials-description {
+    font-size: 0.8rem;
+  }
+  .box1 {
+    width: 23rem;
+    height: 17rem;
+  }
+  .box2 {
+    width: 23rem;
+    height: 17rem;
+  }
+  .last-heading {
+    padding-top: 2%;
+    font-size: 0.8rem;
+  }
+  .last-test {
+    padding-top: 5%;
+  }
+  .last-tittle {
+    font-size: 1.8rem;
+    margin-top: 7%;
+  }
+  .last-description {
+    font-size: 0.8rem;
+    margin-top: 7.5%;
+  }
+  .touch {
+    font-size: 0.8rem;
+    margin-top: 7.5%;
+  }
+  .email-form {
+    width: 82%;
+    margin-top: 7%;
+  }
+  #email {
+    height: 3rem;
+  }
+  .btn-last {
+    height: 3rem;
+  }
+  .map {
+    width: 28.25rem;
+    height: 16.75rem;
+  }
+}
+
+@media (max-width: 81em) {
+  .header {
+    padding: 20px 42px 42px 50px;
+  }
+
+  .main-nav-list {
+    gap: 3rem;
+  }
+  .main-nav-link:link,
+  .main-nav-link:visited {
+    font-size: 1rem;
+  }
+  .logoAgency {
+    font-size: 1.2rem;
+    margin-top: -2%;
+  }
+  .owl-stage {
+    display: flex;
+    gap: 0rem;
+  }
+
+  .hero {
+    max-width: 110rem;
+  }
+
+  .heading-primary {
+    font-size: 3.5rem;
+  }
+  .hero-text-box h2 {
+    font-size: 3.5rem;
+  }
+  .hero-description {
+    font-size: 15px;
+  }
+  .business-text h4 {
+    font-size: 2rem;
+  }
+  .btn:link,
+  .btn:visited {
+    font-size: 0.7rem;
+  }
+  .heroimg {
+    width: 95%;
+    top: -24%;
+  }
+  .hero-description {
+    font-size: 0.8rem;
+  }
+  .aboutus-text-box h4 {
+    font-size: 2rem;
+  }
+  .image2 {
+    width: 87%;
+    margin-top: 12%;
+  }
+
+  .section-business {
+    height: 25rem;
+  }
+
+  .heading-secondary {
+    font-size: 2rem;
+  }
+  .work-text-box h4 {
+    font-size: 2rem;
+  }
+
+  .work-text {
+    font-size: 0.8rem;
+    width: 86%;
+    margin-top: 0%;
+  }
+  .testimonials-text h4 {
+    font-size: 2rem;
+  }
+  .testimonials-description {
+    font-size: 0.7rem;
+  }
+  .box1 {
+    width: 21rem;
+    height: 15rem;
+  }
+  .box2 {
+    width: 21rem;
+    height: 15rem;
+  }
+
+  .last-heading {
+    padding-top: 2%;
+    font-size: 0.75rem;
+  }
+  .last-test {
+    padding-top: 4%;
+  }
+
+  .last-tittle {
+    font-size: 1.8rem;
+    margin-top: 7%;
+  }
+  .last-description {
+    font-size: 0.8rem;
+    margin-top: 7.5%;
+  }
+  .touch {
+    font-size: 0.8rem;
+    margin-top: 7.5%;
+  }
+  .email-form {
+    width: 82%;
+    margin-top: 7%;
+  }
+  #email {
+    height: 2.5rem;
+  }
+  .btn-last {
+    height: 2.5rem;
+  }
+  .map {
+    width: 25rem;
+    height: 16rem;
+    margin-left: -5rem;
+  }
+}
